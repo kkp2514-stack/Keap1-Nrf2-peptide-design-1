@@ -1,4 +1,4 @@
-# Carrying a Generative Peptide Design Workflow to Measurement at the Keap1–Nrf2 Interface
+# Prospective Execution of a Generative Peptide Design Workflow at the Keap1–Nrf2 Interface
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB.svg)](https://www.python.org/)
