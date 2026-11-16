@@ -13,8 +13,7 @@ NamuICT R&D Center, NamuICT, 41 Magok Jungang 8-ro, Seoul, 07793, Republic of Ko
 ---
 
 Code and data for the prospective design and structure-based prioritization of peptides
-targeting the Keap1–Nrf2 protein–protein interaction. Manuscript submitted to the
-Journal of Chemical Information and Modeling.
+targeting the Keap1–Nrf2 protein–protein interaction. 
 
 ## Pipeline
 
